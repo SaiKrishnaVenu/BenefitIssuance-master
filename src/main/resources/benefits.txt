@@ -1,0 +1,9 @@
+<div style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
+  <p>Hi Admin,</p>
+
+  <p>Please find attached the <strong>Document</strong>.</p>
+
+  <p>This Document contains details of all Benefit Details</p>
+
+  <p>Regards,<br/>Your Automated System</p>
+</div>
